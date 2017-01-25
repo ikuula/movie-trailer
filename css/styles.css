@@ -1,4 +1,16 @@
-/* Awesome Styling */
 h1 {
-  color: tomato;
+  color: red;
+  font-size: 6em;
+  text-transform: uppercase;
+  text-align: center;
+}
+.char1 {
+  color: blue;
+}
+.char2 {
+  color: green;
+  letter-spacing: -16px;
+}
+.char3 {
+    color: yellow;
 }
