@@ -1,9 +1,12 @@
 /* Main Stylesheet */
-
+/* Color Pallette */
+$primary-color: gold;
+$secondary-color: orange;
 
 body {
     background: gold;
 }
 h1 {
+    color: $secondary-color;
     text-transform: uppercase;
 }
