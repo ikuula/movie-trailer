@@ -1,16 +1,3 @@
-h1 {
-  color: red;
-  font-size: 6em;
-  text-transform: uppercase;
-  text-align: center;
-}
-.char1 {
-  color: blue;
-}
-.char2 {
-  color: green;
-  letter-spacing: -16px;
-}
-.char3 {
-    color: yellow;
-}
+body{background:gold}h1{text-transform:uppercase}
+
+/*# sourceMappingURL=styles.css.map */
